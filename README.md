@@ -36,14 +36,14 @@ To run this simulator, you need Python installed on your system. You can downloa
 
 ```bash
 python monty_hall_simulator.py <num_simulations>
+```
+# Sample Input
+```Text
+$ python montyHallSimulator.py 10000
+```
 
-$ python monty_hall_simulator.py 10000
-Out of 10000 simulations:
-Switching wins: 6673 times
-Staying wins: 3327 times
-Probability of winning by switching: 0.67
-Probability of winning by staying: 0.33
-
+# Sample Output
+```Text
 Out of 10000 simulations:
 Switching wins: 6673 times
 Staying wins: 3327 times
